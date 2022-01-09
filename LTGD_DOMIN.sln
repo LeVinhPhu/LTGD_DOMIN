@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LTGD_DOMIN", "LTGD_DOMIN\LTGD_DOMIN.csproj", "{FB9B447F-11EA-483A-828E-9EB506F0ABBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB9B447F-11EA-483A-828E-9EB506F0ABBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB9B447F-11EA-483A-828E-9EB506F0ABBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB9B447F-11EA-483A-828E-9EB506F0ABBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB9B447F-11EA-483A-828E-9EB506F0ABBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC62D861-AC95-4619-8951-9ECC7E66CA7B}
+	EndGlobalSection
+EndGlobal
